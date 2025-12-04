@@ -6,8 +6,9 @@
  * is complete the other two are still in production. 
  */
 
-import java.awt.Color;
+package com.BrickBreak;
 
+import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
