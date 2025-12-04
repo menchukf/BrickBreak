@@ -4,7 +4,7 @@
  * Description: Boostrap class to set up the screen and widgets. Nothing exciting going on here.
  * Take a look at BrickBreak.java for all the exciting stuff!
  */
-
+package com.BrickBreak;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
